@@ -11,6 +11,13 @@ The following Python libraries were used to make this dashboard:
 5. Geopandas
 6. Matplotlib
 
+### Files
+[Create-db](https://github.com/dani-dr06/VG-dashboard/blob/main/Create-db.ipynb): creation of the database file
+
+videogame.db: Database file created by above notebook and used by the webapp
+
+[app.py](https://github.com/dani-dr06/VG-dashboard/blob/main/app.py): script to run web application
+
 ## [Dataset](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
 The data, which was obtained through Kaggle, contains a few decades worth of information about video game sales and reviews. The raw data contains the following columns:
 
