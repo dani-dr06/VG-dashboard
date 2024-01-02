@@ -2,6 +2,13 @@
 
 The objective of this project was to design a web application driven by a SQLite database where the user could interact with the data through visualizations and tables, and, therefore, create a visually-appealing way for the user to understand the dataset and obtain insights from the data.
 
+### Demo
+
+
+https://github.com/dani-dr06/VG-dashboard/assets/123820853/e419b110-5fdb-4189-b4bf-eba6cff8fee9
+
+
+
 The following Python libraries were used to make this dashboard:
 
 1. Sqlite3
